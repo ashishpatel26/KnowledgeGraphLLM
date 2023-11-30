@@ -1,0 +1,10 @@
+langchain==0.0.279
+pinecone_client==2.2.2
+streamlit
+unstructured
+unstructured[pdf]
+openai
+chromadb
+tiktoken
+protobuf==3.19.0
+altair == 4.0.0
